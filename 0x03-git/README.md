@@ -1,1 +1,1 @@
-Git project
+ Project git documentation
